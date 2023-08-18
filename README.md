@@ -1,4 +1,4 @@
-# tanh_quantize
+# quantize accuracy
 discussion about quantization of tanh function
 
 本文件主要讨论了分组线性量化来拟合不同非线性函数的可行性，其中：
